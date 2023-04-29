@@ -1,1 +1,1 @@
-Made with JavaScript, Node, Express and SQL.
+Made with JavaScript, node, express and mongoose.

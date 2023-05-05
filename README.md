@@ -1,5 +1,5 @@
 ## Tecnologias utilizadas
-Node.js
-MongoDB
-Express.js
-Mongoose
+* Node.js
+* MongoDB
+* Mongoose
+* Express.js

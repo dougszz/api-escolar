@@ -1,1 +1,5 @@
-Made with JavaScript, node, express and mongoose.
+## Tecnologias utilizadas
+Node.js
+MongoDB
+Express.js
+Mongoose
